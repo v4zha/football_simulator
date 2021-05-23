@@ -1,2 +1,2 @@
 # football_simulator
-its a hobby project written in C++. its a football simulator which calculates outcome based on Poisson distribution
+Hobby project written in C++.Football simulator which calculates outcome based on Poisson distribution and real_time match simulation
